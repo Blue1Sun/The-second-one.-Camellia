@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: accaef14cebc171478c737266b84c47a
+timeCreated: 1551555527
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: a_Allgidus3Dxtr
+  fontNames:
+  - a_Allgidus3Dxtr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
